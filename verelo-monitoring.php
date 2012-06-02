@@ -3,7 +3,7 @@
 Plugin Name: Verelo Blog Monitoring Plugin
 Plugin URI: https://github.com/FastTrackIT/WPPlugin_VereloMonitoring
 Description: This plugin allows you to automatically enable Uptime, Response time, Malware and Virus monitoring on your blog using the remote Verelo monitoring system. If something goes wrong, you can be notified by Email, SMS or a phone call automatically.
-Version: 1.0
+Version: 1.1
 Author: Verelo Inc.
 Author URI: http://www.verelo.com
 */

@@ -44,3 +44,7 @@ Automatically start monitoring your sites uptime and check for hacks/malware fro
 == Changelog ==
 [03-May-2012]
 Verelo blog monitoring plugin version 1.0 released.
+[01-June-2012]
+Account creation bug fix.
+Auto-login URL is now provided in Verelo plugin menu.
+Added product screenshots.
