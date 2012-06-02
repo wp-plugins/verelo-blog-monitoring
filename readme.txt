@@ -35,7 +35,11 @@ Automatically start monitoring your sites uptime and check for hacks/malware fro
 - How do i view my monitoring stats? Simply login to the Verelo dashboard using the information we emailed to the "Blog administrator email" address. You should get this email shortly after activating the plugin.
 
 == Screenshots ==
-blog-monitor.png
+1. An example of the admin UI provided where you can auto-login to Verelo
+2. The Verelo dashboard
+3. Uptime reports
+4. Response time reports
+5. Raw data reports
 
 == Changelog ==
 [03-May-2012]
