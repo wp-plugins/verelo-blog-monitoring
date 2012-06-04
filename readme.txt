@@ -1,6 +1,6 @@
 === Verelo Blog Monitoring Plugin ===
 Contributors: Verelo Inc.
-Tags: monitoring, malware, virus, uptime, downtime, outage, responsetime, response, load speed, speed, verelo, hacked, hack, notification
+Tags: monitoring, performance, malware, virus, uptime, downtime, outage, responsetime, response, load, speed, load speed, verelo, hacked, hack, notification, status, tracking, infected, exploit, scan, security, vulnerability, spam, injection, lockdown, prevention, safe, protection, anti-spam, automatic, blocked, hackers, secure, security scan, SQL injection 
 Requires at least: 2.9
 Tested up to: 2.9
 Stable tag: 1.0
@@ -15,6 +15,7 @@ Automatically start monitoring your sites uptime and check for hacks/malware fro
 <li>Ensure your blog is free of malware and viruses.</li>
 <li>Multiple geographic locations observing the status of your blog.</li>
 <li>Instant notifications by SMS, Phone or Email when something goes wrong.</li>
+<li>Completely free.</li>
 </ul>
 
 
@@ -42,9 +43,10 @@ Automatically start monitoring your sites uptime and check for hacks/malware fro
 5. Raw data reports
 
 == Changelog ==
-[03-May-2012]
-Verelo blog monitoring plugin version 1.0 released.
-[01-June-2012]
-Account creation bug fix.
-Auto-login URL is now provided in Verelo plugin menu.
-Added product screenshots.
+= 1.0 =
+* Verelo blog monitoring plugin version 1.0 released.
+
+= 1.1 =
+* Account creation bug fix.
+* Auto-login URL is now provided in Verelo plugin menu.
+* Added product screenshots.
