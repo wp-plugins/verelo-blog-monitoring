@@ -9,10 +9,13 @@ Automatically start monitoring your sites uptime and check for hacks/malware fro
 
 == Description ==
 
-<strong>Verelo Blog Monitoring Plugin</strong> -
+Verelo watches your blog 24/7 to ensure that it is up and running without malware infections. Having your site go down, or expolited can damange your reputation and often result in hours of lost traffic. Using Verelo means you can detect issues far before your visitors notice. Verelo really just wants to make the Internet a better and more reliable place, <strong>so the service is completely free</strong>.
+
+<strong>Features</strong>
 <ul>
 <li>Monitor your blogs uptime.</li>
 <li>Ensure your blog is free of malware and viruses.</li>
+<li>Notifies you when your blog needs to be upgraded or has a known security problem.</li>
 <li>Multiple geographic locations observing the status of your blog.</li>
 <li>Instant notifications by SMS, Phone or Email when something goes wrong.</li>
 <li>Completely free.</li>
